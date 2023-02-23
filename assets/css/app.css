@@ -1,7 +1,51 @@
-div {
-    background-color: bisque;
+body{
+    background-color: antiquewhite;
 }
+
 h3 {
     color:blueviolet;
 
 }
+h1{
+    text-align: center;
+}
+
+.underline, .garisbawah{
+    text-decoration: underline;
+    text-decoration: underline wavy green;
+}
+.garisatas, .upperline{
+    text-decoration: overline dashed rebeccapurple;
+}
+.strike{
+    text-decoration: line-through;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.upper{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform: lowercase;
+}
+.indent{
+    text-indent: 1em;
+}
+.line-height{
+    line-height: 1.6;
+}
+.nowrap{
+    white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+
